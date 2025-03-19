@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "tecnoglass",
+      prompt: "mondá",
     };
 
     const response = await env.AI.run(
